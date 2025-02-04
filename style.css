@@ -1,0 +1,67 @@
+img {
+    width: 150px;
+    display: block;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.face {
+    
+    position: absolute;
+    left: 400px;
+    top: 300px;
+}
+
+.hair {
+    position: relative;
+    left: 390px;
+    top:260px;
+}
+
+.hat {
+    position: absolute;
+    left: 440px;
+    top: 270px;
+    opacity: 0.8;
+}
+
+.ears {
+    position: relative;
+    left: 390px;
+    top: 175px;
+}
+
+.eyes {    
+    position: absolute;
+    left: 440px;
+    top: 360px;
+}
+
+.mouth {
+    position: relative;
+    left: 438px;
+    top: 165px;
+}
+
+.nose {
+    position: absolute;
+    left: 461px;
+    top: 375px;
+}
+
+.moustache {
+    position: relative;
+    left: 440px;
+    top: 177px;
+}
+
+.button {
+    background-color:violet;
+    font-family: 'Helvetica';
+    font-weight: bolder;
+    box-shadow: inset 10px 5px 10px darkviolet;
+    position: fixed;
+    top: 200px;
+    }
